@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ppp/static/css/main.b11622af.css",
-    "main.js": "/ppp/static/js/main.9f2095dc.js",
+    "main.js": "/ppp/static/js/main.2f4a9c8a.js",
     "static/js/584.b46fdaa2.chunk.js": "/ppp/static/js/584.b46fdaa2.chunk.js",
     "index.html": "/ppp/index.html",
     "main.b11622af.css.map": "/ppp/static/css/main.b11622af.css.map",
-    "main.9f2095dc.js.map": "/ppp/static/js/main.9f2095dc.js.map",
+    "main.2f4a9c8a.js.map": "/ppp/static/js/main.2f4a9c8a.js.map",
     "584.b46fdaa2.chunk.js.map": "/ppp/static/js/584.b46fdaa2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b11622af.css",
-    "static/js/main.9f2095dc.js"
+    "static/js/main.2f4a9c8a.js"
   ]
 }
